@@ -1,7 +1,7 @@
 # CV
 1.	Identify what aspects of the work have been correctly implemented and what have not.
 First of all, completing this assignment was not the easiest thing for me to do. I like the aftermath of creating a website although with the coding part it i'm still learning and am not great at yet. The aspects of the assignment that have been correctly implemented; i would say is the structure of the site for example the pages cv.html, bio.html, contact.html and index.html. I successfully managed to create the 4 html pages and a css document, of which i linked the two.
-Each html page and document has a basic structure; in the code i used different tags and elements. For example, DIV tags, <p> and <li> lists. All these tags and elements helped me to structure my pages using, head, body header, container and footer tags. In my CSS document i did use over the minimum of 5 css rules. Another success is creating this README document. 
+Each html page and document has a basic structure; in the code i used different tags and elements. For example, DIV tags, "<p>" and "<li>" lists. All these tags and elements helped me to structure my pages using, head, body header, container and footer tags. In my CSS document i did use over the minimum of 5 css rules. Another success is creating this README document. 
 I did not use any inline styling all styling is in the CSS document
 
 The general structure for each page was to have a header, navigation bar across the page and the main body area where the content will be held.
